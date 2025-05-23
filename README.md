@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Albion Kadriaj!
+A third-year computer science student passionate about full-stack development and creating user-friendly web apps.
 
-<!--
-**albngo/albngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Final Year Project
+**An All-in-One Fitness Tracker Web App with Personalised Workouts and Health Insights**
+- 🔹 Features: water and sleep tracking, custom workout generator, account creation
+- 🔹 Technologies: Node.js, Express, MySQL, EJS, JavaScript, CSS
+- 🔹 Key Considerations: Accessibility, user-friendly UI, multi-feature integration
+- 📂 [View the Project Repository](https://github.com/albngo/fitness-tracker-app)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: JavaScript, Node.js, SQL
+- Web: HTML, CSS, EJS, Express
+- Tools: Git, GitHub, VS Code, MySQL Workbench
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- Email: albionkadriaj@gmail.com
